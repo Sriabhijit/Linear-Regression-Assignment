@@ -1,2 +1,8 @@
 # Linear-Regression-Assignment
-Building a Machine Learning model for calculating the demand for the Bikes.
+**Project Information** The project contains a bike-sharing dataset, and a model is built to predict the factors that affect the **demand for bikes.**
+
+**Project Background** A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+
+**Project Statement** Performing a basic EDA on the dataset and then **Building a Machine Learning model** for calculating the demand for the Bikes.
+
+**Contributor** Sri Abhijit Thammana
